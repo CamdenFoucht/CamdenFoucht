@@ -2,8 +2,8 @@ Hi there👋
 ==============================
 
 About Me
-- 💻 Currently working as a SDE2 at Amazon One Medical doing fullstack development
-- 🔧 Former Software Development Engineer (SDE) at Amazon Alexa focusing on client-side tooling
+- 💻 Currently working as an SDE2 at Amazon One Medical doing fullstack development
+- 🔧 Former SDE at Amazon Alexa focusing on client-side tooling
 - 🎓 Graduated from the University of Washington
 - 🌍 Based in Bellevue, Washington
 - ✉️ Contact me at fouchtc@outlook.com
